@@ -1,0 +1,6 @@
+H:\Workspace\Projects\API Projects\ListDemo\ListDemo\bin\Debug\ListDemo.exe.config
+H:\Workspace\Projects\API Projects\ListDemo\ListDemo\bin\Debug\ListDemo.exe
+H:\Workspace\Projects\API Projects\ListDemo\ListDemo\bin\Debug\ListDemo.pdb
+H:\Workspace\Projects\API Projects\ListDemo\ListDemo\obj\Debug\ListDemo.csprojResolveAssemblyReference.cache
+H:\Workspace\Projects\API Projects\ListDemo\ListDemo\obj\Debug\ListDemo.exe
+H:\Workspace\Projects\API Projects\ListDemo\ListDemo\obj\Debug\ListDemo.pdb
